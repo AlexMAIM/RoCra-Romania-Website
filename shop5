@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Un site creat special pentru publicarea informatiilor din domeniul IT">
+	
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" href="css/SHOP.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&display=swap" rel="stylesheet">
+	
+	 <!-- Meniu telefon java -->
+	 <script>
+		function myFunction() {
+			var x = document.getElementById("myTopnav");
+		if (x.className === "topnav") {
+		x.className += " responsive";
+			}else {
+		x.className = "topnav";
+			}
+		}
+		</script>
+		
+	<title> SHOP 5 | RoCra Romania</title>
+</head>
+<body>
+		<header>
+			<div class="topnav" id="myTopnav">
+				<a href="index">Acasa</a>
+				<a href="shop"class="active">Shop</a>
+				<a href="socialmedia">Social Media</a>
+				<a href="https://discord.gg/FeS7wBa5">Server Discord </a>
+				 <a href="fivem://connect/b36pq4"  class="activer">INTRA PE SERVER</a>  
+				 
+				<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+					<i class="fa fa-bars"></i>
+				</a>
+			</div>
+		</header>
+		<div class="aside-left">
+			<h3 align="center"></h3>
+		</div>
+	<aside>
+		
+		
+	</aside>
+		<main>
+			<div class="box box2">
+   
+ 
+			<h1 align="center">RoCra Romania RP</h1>
+			<p align="left">                              </p>
+			<p align="center">DONATIILE SE FAC DOAR LUI MAIM!!</p>
+			<h3 align="left">V.I.P DIAMOND  15e o luna /30e 3 luni</h3>
+			<p align="left"> Benefici:</p>
+			<p align="left">-Acces revive</p>
+			<p align="left">-Pachet arme</p>
+			<p align="left"> -Dacia Sandero</p>
+			<p align="left"> -Rainbow car</p>
+			<p align="left"> -Acces Fix</p>
+			<p align="left"> -Spala masina</p>
+			<p align="left">-Acces camera V.I.P</p>
+			<p align="left">-Gradul pe Discord</p>
+			<p align="left"> -3.500.000</p>
+			<p align="left">                              </p>
+			<h2 align="left">Pret MAFIE</h2>
+			<p align="left"> 20 Euro - 25 Slot-uri</p>
+			<p align="left">Diferenta dintre Mafie si Gang sunt:
+1. Are mai multe slot-uri
+2. Are AK-47
+3. Alegerea locatiei casei
+4. Aveti g63 6x6
+5. Aveti o limuzina. Mercedes s650 2018</p>
+			<p align="left">Beneficii</p>
+			<p align="left">+1 - Elicopter- 20e</p>
+			<p align="left">  +2 - Masina custom - 10e</p>
+			<p align="left">+3 - Motocicleta custom - 5e</p>
+			<p align="left">+4 - Schimbarea casei - 15e</p>
+			<p align="left">+5 - Adaugarea unei arme de foc de calibru mic (Pistoale, smg) - 5e</p>
+			<p align="left">+6 - Adaugarea unei arme de foc de calibru mare (Rifle etc.) - 10e</p>
+			<p align="left">+7 - Adaugarea Sniper-ului cu bani la mafie - 15e</p>
+			<p align="left"> +8 - Adaugarea Sniper-ului la mafie gratis - 25e</p>
+			<p align="left">+7 - Armura free la mafie - 20e</p>
+			<p align="left"> +8 - Armura cu bani la mafie - 15e</p>
+			<p align="left">+9 - Adaugarea unui garaj de civil langa mafie - 5e</p>
+			<p align="left"> +10 - Schimbarea numelui - 10e</p>
+			<p align="left">+11 - Arme gratis la mafie (fara sniper) - 20e</p>
+			<p align="left">+12 - Un slot pentru mafie -  3e (maxim 50)</p>
+			<p align="left">+13 - Adaugarea atasamentelor de arme - 15e</p>
+			<p align="left">+14 - Adaugarea unei locatii sau case custom cu un mapping custom - 20e</p>
+			<p align="left">                              </p>
+			<p align="center">DONATIILE SE FAC DOAR LUI MAIM!!</p>
+		
+
+			
+			
+			
+			
+			
+			
+		<div class="topnav" id="myTopnav">
+					
+					<a href="shop4"> < </a>
+					<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+						<i class="fa fa-bars"></i>
+					</a>
+					
+				<div class="topnav" id="myTopnav">
+					
+					<a href="shop6"> > </a>
+					<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+						<i class="fa fa-bars"></i>
+					</a>
+				
+			
+			
+			</div>
+				
+		<ul>
+				
+				
+		</ul>
+			<p align="left"></p>
+		<ul>
+				
+		</ul>
+			</div>
+		</main>		
+		<footer>
+		
+		<div class="box box2">
+			<div class="left-footer">
+				<p align="center"></p>
+			</div> 
+			<div class="center-footer">
+				<p align="center">RoCra Romania RP</p>
+			</div>
+			
+			<div class="copyright">
+				<p align="center">Copyright &copy; 2019 - 2023 RoCra Romania RP </p>
+			</div>
+			</div> 
+		</footer>
