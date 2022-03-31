@@ -7,13 +7,14 @@ body {
 	float: none;
 	margin: auto;
 	background-color: #000000;
-	padding: 0px;
+	padding-left: 65px;
 	min-height: 1000px;
 	opacity: .;
 	background-size: cover;
 	background-position: left;
 	font-family: sans-serif;
 	color: #641EC7;
+	
 	
 }
 h1,h2,h3,h4,h5,h5,h6 {
@@ -56,7 +57,7 @@ activer {
 	width: 0%;
 	float: left;
 	display: block;
-	min-height: 1584px;
+	min-height: 850px;
 	background-color: transparent;
 	
 }
@@ -82,7 +83,7 @@ main {
 	
 }
 .box2 {
-       background-color: rgba(0,0,0,.5);
+    background-color: rgba(0,0,0,.5);
     color: #641EC7;
 	
 
@@ -91,7 +92,7 @@ aside {
 	width: 0%;
 	float: right;
 	display: block;
-	min-height: 1439px;
+	min-height: 850px;
 	background-color: #641EC7;
 	padding-top: px;
 	padding-bottom: 50px;
@@ -162,7 +163,7 @@ footer {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #641EC7;
   color: black;
 }
 
@@ -218,5 +219,7 @@ footer {
     text-align: left;
   }
 }
+
+
 
 

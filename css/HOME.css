@@ -7,7 +7,7 @@ body {
 	float: none;
 	margin: auto;
 	background-color: #000000;
-	padding: 0px;
+	padding-left: 65px;
 	min-height: 1000px;
 	opacity: .;
 	background-size: cover;
@@ -15,7 +15,9 @@ body {
 	font-family: sans-serif;
 	color: #641EC7;
 	
+	
 }
+
 h1,h2,h3,h4,h5,h5,h6 {
 	font-family: font-family: 'Franklin Gothic Medium', serif;
 	font-size: 0.9S;
@@ -56,7 +58,7 @@ activer {
 	width: 0%;
 	float: left;
 	display: block;
-	min-height: 1584px;
+	min-height: 850px;
 	background-color: transparent;
 	
 }
@@ -91,7 +93,7 @@ aside {
 	width: 0%;
 	float: right;
 	display: block;
-	min-height: 1439px;
+	min-height: 850px;
 	background-color: #641EC7;
 	padding-top: px;
 	padding-bottom: 50px;
@@ -160,14 +162,14 @@ footer {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #641EC7;
   color: black;
 }
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color:#641EC7;
-  color: white;
+	background-color:#641EC7;
+	color: white;
 }
 .topnav a.activer{
   background-color: #990099;
